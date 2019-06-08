@@ -1,0 +1,13 @@
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe.config
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.pdb
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\bin\Debug\EntityFramework.dll
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\bin\Debug\EntityFramework.xml
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csproj.CopyComplete
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.exe
+C:\Users\azat\source\repos\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.pdb
